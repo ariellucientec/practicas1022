@@ -1,0 +1,150 @@
+commit 8add97c6e45ff3f2b4877cfbd8fbdfee50f319b5
+Author: ariellucientec <ariel.garcia@itesm.mx>
+Date:   Wed Nov 7 11:30:40 2018 -0600
+
+    resolví conflictos
+
+commit 377246bb78ed64a23fcde2c9e6b9e0d07bab4fb7
+Merge: 7847b04 c0ad305
+Author: ariellucientec <ariel.garcia@itesm.mx>
+Date:   Wed Nov 7 11:26:53 2018 -0600
+
+    Merge branch 'master' of https://github.com/ariellucientec/practicas1022
+    
+    dasdasdasdasdasda
+
+commit 7847b0429149bf3e769d6e33b0e33c2ea0e76156
+Author: ariellucientec <ariel.garcia@itesm.mx>
+Date:   Wed Nov 7 11:25:38 2018 -0600
+
+    actualización local
+
+commit c0ad305ccb3d3027e34d52688566627e24521843
+Author: ariellucientec <42215157+ariellucientec@users.noreply.github.com>
+Date:   Wed Nov 7 11:24:53 2018 -0600
+
+    Update tarea10.txt
+    
+    modificación remota de tarea 10
+
+commit c7337898c59b713b4e6a2d66cd248272b0a8ebf5
+Merge: dd566ec 5b0bd7f
+Author: ariellucientec <ariel.garcia@itesm.mx>
+Date:   Wed Nov 7 11:14:36 2018 -0600
+
+    Merge branch 'master' of https://github.com/ariellucientec/practicas1022
+    
+    Este merge es para combinar tarea10 local con tarea11 remota
+
+commit 5b0bd7fc0bf494fea32ec89b8f162524fe64d901
+Author: ariellucientec <42215157+ariellucientec@users.noreply.github.com>
+Date:   Wed Nov 7 11:13:13 2018 -0600
+
+    Create tarea11.txt
+    
+    subí mi tarea en el repositorio remoto
+
+commit dd566ec7d2c296491e816c3da4766525324e382b
+Author: ariellucientec <ariel.garcia@itesm.mx>
+Date:   Wed Nov 7 11:10:44 2018 -0600
+
+    tarea local
+
+commit 9dd0bf7c12d094990bc1fc5baddcce89043b71cf
+Merge: 12abee6 cd1a87e
+Author: ariellucientec <ariel.garcia@itesm.mx>
+Date:   Wed Nov 7 09:32:20 2018 -0600
+
+    se resolvieron conflictos con rama
+
+commit 12abee63ecbc892039cb282e977118777da80ea7
+Author: ariellucientec <ariel.garcia@itesm.mx>
+Date:   Wed Nov 7 09:20:41 2018 -0600
+
+    appended content from master branch
+
+commit cd1a87ec31ca94bce2ce5c8fe439689d16220cae
+Author: ariellucientec <ariel.garcia@itesm.mx>
+Date:   Wed Nov 7 09:14:02 2018 -0600
+
+    modifiqué una línea en el branch_to_test
+
+commit a36b013df216895b855913fc43edd1e634b084e2
+Merge: 42654ad 0fa6197
+Author: ariellucientec <ariel.garcia@itesm.mx>
+Date:   Wed Nov 7 07:50:31 2018 -0600
+
+    Merge branch 'master' of https://github.com/ariellucientec/practicas1022
+    
+    Actualización de mi Git remoto con mi git local
+
+commit 42654ade2045ac145b8156f8f47f4e9703062958
+Author: ariellucientec <ariel.garcia@itesm.mx>
+Date:   Wed Nov 7 07:49:34 2018 -0600
+
+    Eliminé Enrique.gpg
+
+commit 0fa619743a1d684c24fc88fbdf82d04f530afe57
+Author: ariellucientec <42215157+ariellucientec@users.noreply.github.com>
+Date:   Wed Nov 7 07:48:50 2018 -0600
+
+    Delete Enrique
+
+commit 3a09a2b4b6016a4f8093ead4f9af73194ec59d2f
+Author: ariellucientec <ariellucien@ARIELGARCIA-L01.svcs.itesm.mx>
+Date:   Wed Nov 7 07:44:56 2018 -0600
+
+    limpieza para práctica de resolución de conflictos
+
+commit b4e551c9b710b0934a767bb8c924c3ae8c3de16f
+Author: ariellucientec <ariellucien@ARIELGARCIA-L01.svcs.itesm.mx>
+Date:   Wed Oct 24 11:39:09 2018 -0500
+
+    exportar llaves publicas y privadas
+
+commit 23161c6f8bf56c8d33cbe065787de0afab8b8529
+Author: ariellucientec <ariellucien@ARIELGARCIA-L01.svcs.itesm.mx>
+Date:   Tue Oct 23 21:42:14 2018 -0500
+
+    cifrado de la tarea T1.1.Plática Drink IQ
+
+commit e3e16db635066306988556072a80061b704bf2df
+Author: ariellucientec <42215157+ariellucientec@users.noreply.github.com>
+Date:   Tue Oct 23 21:07:14 2018 -0500
+
+    Add files via upload
+    
+    Tarea plática Drink IQ
+
+commit e3f8745db90b41a2d76717ab2dc68e463469025c
+Author: ariellucientec <42215157+ariellucientec@users.noreply.github.com>
+Date:   Tue Oct 23 20:10:03 2018 -0500
+
+    Delete myPrivateKey.gpg
+    
+    se eliminó la llave privada
+
+commit 2e1a45e1f1c093f958b57545427676fd3c25167d
+Merge: c9a6fc5 c4d81f1
+Author: ariellucientec <ariellucien@ARIELGARCIA-L01.svcs.itesm.mx>
+Date:   Tue Oct 23 19:56:26 2018 -0500
+
+    resolución de conflictos
+
+commit c9a6fc5ecedb7cfc962907ca3de0349013956dc0
+Author: ariellucien <ariellucien@ARIELGARCIA-L01.svcs.itesm.mx>
+Date:   Tue Oct 23 19:31:42 2018 -0500
+
+    exportar llaves públicas y privadas
+
+commit c4d81f104bd90655c595fb889f14622b56246838
+Author: ariellucien <ariellucien@ARIELGARCIA-L01.svcs.itesm.mx>
+Date:   Wed Oct 17 11:44:24 2018 -0500
+
+    primer commit
+
+commit 33ae6055bcde0e88dfd18ccdb55eb43ae9aa5c37
+Author:  <ariellucien@ARIELGARCIA-L01.svcs.itesm.mx>
+Date:   Wed Oct 10 12:32:03 2018 -0500
+
+    primer commit
